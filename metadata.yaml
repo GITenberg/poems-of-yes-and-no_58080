@@ -1,0 +1,22 @@
+_repo: poems-of-yes-and-no_58080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bartlett, Elizabeth
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '49768'
+    url: http://www.gutenberg.org/2009/agents/49768
+description: ''
+gutenberg_issued: '2018-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58080'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- GITenberg
+title: poems of yes and no
+url: http://www.gutenberg.org/ebooks/58080
